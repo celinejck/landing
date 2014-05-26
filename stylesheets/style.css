@@ -1,0 +1,30 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.container{
+	min-height: 450px;
+}
+
+
+.orange{
+	color: orange;
+}
+
+
+a:hover{
+	text-decoration:none;
+}
+
+
+
+#footer{
+	padding:20px;
+	background: rgb(99,0,0);
+	color: red;
+}
+
+
+
+
